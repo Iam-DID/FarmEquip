@@ -1,8 +1,8 @@
 {
-  "version": 3,
-  "functions": {
-    "api/alatpertanian.go": {
-      "runtime": "vercel-go@2.0.0"
-    }
-  }
+"version": 2,
+"functions": {
+"api/alatpertanian.go": {
+"runtime": "go1.x"
+}
+}
 }
